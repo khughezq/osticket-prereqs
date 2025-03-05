@@ -65,7 +65,8 @@ With our newly created PHP folder we then extract our php binary language files.
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/72eca3d7-a3c7-47d8-a05c-8ff2fbe714ca)
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/2c2a2ea5-9483-4d7b-8105-932fc67f99d8" />
+
 ![image](https://github.com/user-attachments/assets/121738c2-5eea-43df-b599-c102ba19f816)
 
 </p>
