@@ -57,7 +57,7 @@ Next, we need to install PHP Manager, the web server that osTicket runs on. Then
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/5f2707d0-474c-4874-8c21-1162f9e8f62d)
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/6f29550c-7130-40da-931a-09c4866e5969" />
 
 </p>
 <p>
