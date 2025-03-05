@@ -31,7 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Refresh/Reload IIS
 - Verify osTicket can be Browsed via the IIS
 - Enable extensions needed to operate osTicket
-- Add Permissions
+- Adding Permissions
+- Set Up osTicket in Browser
+- Install Heidi SQL
+- Make a connection to our database
 
 <h2>Installation Steps</h2>
 
@@ -103,15 +106,33 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/3c681ace-88ab-4172-a1e8-b66cc9be3182)
+
 </p>
 <p>
-juhguyhbkuyb
+Adding Permissions to allow us to operate in our other osTicket Labs.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/8de30848-f4b5-4be4-8c17-9d5192325ec2)
+
 </p>
 <p>
-juhguyhbkuyb
+Install Heidi SQL. 
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/96e69d36-0cda-4268-852a-171dc9f86f1a)
+
+</p>
+<p>
+Create a new session to our Heidi SQL in order to create a database called osTicket. 
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/d1e83ea9-17b6-4e3c-8e87-9102888e3215)
+
+</p>
+<p>
+Finally, we are ready to use osTicket!
 </p>
