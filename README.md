@@ -48,7 +48,7 @@ First in order to install and enable Internet Information Services in Windows we
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/6a2ea32a-6912-4f98-9244-fc672d43260f)
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/07e96590-f505-4943-b243-188795e0c718" />
 
 </p>
 <p>
