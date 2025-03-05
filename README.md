@@ -129,6 +129,7 @@ Install Heidi SQL.
 Create a new session to our Heidi SQL in order to create a database called osTicket. 
 </p>
 
+
 <p>
 ![image](https://github.com/user-attachments/assets/d1e83ea9-17b6-4e3c-8e87-9102888e3215)
 
