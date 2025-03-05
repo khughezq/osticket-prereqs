@@ -26,6 +26,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Unzip PHP 7.3.8 into the “C:\PHP” folder
 - Install Microsoft Visual C++ & Install MySQL Server
 - Register PHP from within IIS
+- Refresh/Reload IIS
+- Install osTicket v1.15.8
+- Refresh/Reload IIS
+- Verify osTicket can be Browsed via the IIS
+- Enable extensions needed to operate osTicket
+- Add Permissions
 
 <h2>Installation Steps</h2>
 
@@ -65,22 +71,47 @@ After that, we install Microsoft Visual C++. In addition to the MySQL Server. Ou
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/89748ba5-0dec-47ef-8881-4e2e180b1d02)
+
 </p>
 <p>
-Then, we open IIS as an Admin to register PHP using the PHP Manager 
+Then, we open IIS as an Admin to register PHP using the PHP Manager.  
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/354ba8af-cc65-45d0-b045-7de1c8ea72a3)
+
+</p>
+<p>
+To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Drive, inetpub, to the wwwroot. And we will copy/drag our upload file into the wwwroot folder. Rename our upload file to osTicket.
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/db8ee7f9-8275-4255-bb00-11d3c12f8cbc)
+
+</p>
+<p>
+Then, within IIS we will go to sites, default, osTicket, and then Browse to osTicket from there to verify our Support Ticket System works!
+</p>
+
+<p>
+![image](https://github.com/user-attachments/assets/fdb9bbed-3bf0-4100-bdcf-88342a851ee8)
+
+</p>
+<p>
+Next, we have to enable some extensions within our IIS. Sites, Default, osTicket. In our PHP Manager, we can enable the extensions we need. The 3 extensions we need enabled are php_imap.dll, php_intl.dll, and php_opcache.dll. 
 </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+juhguyhbkuyb
 </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+juhguyhbkuyb
 </p>
