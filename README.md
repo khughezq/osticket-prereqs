@@ -124,7 +124,7 @@ Install Heidi SQL.
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/96e69d36-0cda-4268-852a-171dc9f86f1a)
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/a3520ac0-35cf-4409-a77e-537b7d995475" />
 
 </p>
 <p>
