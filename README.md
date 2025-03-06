@@ -85,14 +85,13 @@ Then, we open IIS as an Admin to register PHP using the PHP Manager.
 <p>
 <img width="648" alt="image" src="https://github.com/user-attachments/assets/f194b6d9-dbce-4a32-8553-9d93aa24cd79" />
 
-
 </p>
 <p>
 To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Drive, inetpub, to the wwwroot. And we will copy/drag our upload file into the wwwroot folder. Rename our upload file to osTicket.
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/db8ee7f9-8275-4255-bb00-11d3c12f8cbc)
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/45ffc8ac-3a5b-4202-937b-b7f0f23475d2" />
 
 </p>
 <p>
