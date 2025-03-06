@@ -50,6 +50,7 @@ First in order to install and enable Internet Information Services in Windows we
 
 
 
+
 <p>
 <img width="384" alt="image" src="https://github.com/user-attachments/assets/07e96590-f505-4943-b243-188795e0c718" />
 
@@ -61,6 +62,7 @@ Next, we need to install PHP Manager, the web server that osTicket runs on. Then
 
 
 
+
 <p>
 <img width="741" alt="image" src="https://github.com/user-attachments/assets/6f29550c-7130-40da-931a-09c4866e5969" />
 
@@ -68,6 +70,7 @@ Next, we need to install PHP Manager, the web server that osTicket runs on. Then
 <p>
 With our newly created PHP folder we then extract our php binary language files... PHP 7.3.8 
 </p>
+
 
 
 
@@ -83,6 +86,7 @@ After that, we install Microsoft Visual C++. In addition to the MySQL Server. Ou
 
 
 
+
 <p>
 <img width="698" alt="image" src="https://github.com/user-attachments/assets/fbc0d19d-5a47-4369-be7a-5d6b2bc117ac" />
 
@@ -90,6 +94,7 @@ After that, we install Microsoft Visual C++. In addition to the MySQL Server. Ou
 <p>
 Then, we open IIS as an Admin to register PHP using the PHP Manager.  
 </p>
+
 
 
 
@@ -103,6 +108,7 @@ To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Dri
 
 
 
+
 <p>
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/45ffc8ac-3a5b-4202-937b-b7f0f23475d2" />
 
@@ -110,6 +116,7 @@ To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Dri
 <p>
 Then, within IIS we will go to sites, default, osTicket, and then Browse to osTicket from there to verify our Support Ticket System works!
 </p>
+
 
 
 
@@ -123,6 +130,7 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 
 
 
+
 <p>
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/1ab37ab1-7e57-4ee9-b0d8-be6098c9128e" />
 
@@ -130,6 +138,7 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 <p>
 Adding Permissions to allow us to operate in our other osTicket Labs.
 </p>
+
 
 
 
@@ -143,6 +152,7 @@ Install Heidi SQL.
 
 
 
+
 <p>
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/a3520ac0-35cf-4409-a77e-537b7d995475" />
 
@@ -150,6 +160,7 @@ Install Heidi SQL.
 <p>
 Create a new session to our Heidi SQL in order to create a database called osTicket. 
 </p>
+
 
 
 
