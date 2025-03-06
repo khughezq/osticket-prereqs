@@ -75,7 +75,7 @@ After that, we install Microsoft Visual C++. In addition to the MySQL Server. Ou
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/89748ba5-0dec-47ef-8881-4e2e180b1d02)
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/fbc0d19d-5a47-4369-be7a-5d6b2bc117ac" />
 
 </p>
 <p>
