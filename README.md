@@ -44,7 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-First in order to install and enable Internet Information Services in Windows we need to access our control panel, go to programs, and then turn Windows features on. We will check the IIS box and then expand it. Go to World Wide Web Services, expand it and explore Application Development Features to check the CGI box. This will allow us to install our web server that osTicket runs on.
+1. First in order to install and enable Internet Information Services in Windows we need to access our control panel, go to programs, and then turn Windows features on. We will check the IIS box and then expand it. Go to World Wide Web Services, expand it and explore Application Development Features to check the CGI box. This will allow us to install our web server that osTicket runs on.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ First in order to install and enable Internet Information Services in Windows we
 
 </p>
 <p>
-Next, we need to install PHP Manager, the web server that osTicket runs on. Then install the Rewrite Module. Create a new directory/folder in the Windows C Drive (C:) called PHP. 
+2. Next, we need to install PHP Manager, the web server that osTicket runs on. Then install the Rewrite Module. Create a new directory/folder in the Windows C Drive (C:) called PHP. 
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Next, we need to install PHP Manager, the web server that osTicket runs on. Then
 
 </p>
 <p>
-With our newly created PHP folder we then extract our php binary language files... PHP 7.3.8 
+3. With our newly created PHP folder we then extract our php binary language files... PHP 7.3.8 
 </p>
 
 
@@ -77,11 +77,12 @@ With our newly created PHP folder we then extract our php binary language files.
 <p>
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/2c2a2ea5-9483-4d7b-8105-932fc67f99d8" />
 
+
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/961c76aa-6259-4f27-9ad9-5862d8895150" />
 
 </p>
 <p>
-After that, we install Microsoft Visual C++. In addition to the MySQL Server. Our MySQL server will be typical, with a standard configuration.
+4. After that, we install Microsoft Visual C++. In addition to the MySQL Server. Our MySQL server will be typical, with a standard configuration.
 </p>
 
 
@@ -92,7 +93,7 @@ After that, we install Microsoft Visual C++. In addition to the MySQL Server. Ou
 
 </p>
 <p>
-Then, we open IIS as an Admin to register PHP using the PHP Manager.  
+5. Then, we open IIS as an Admin to register PHP using the PHP Manager.  
 </p>
 
 
@@ -103,7 +104,7 @@ Then, we open IIS as an Admin to register PHP using the PHP Manager.
 
 </p>
 <p>
-To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Drive, inetpub, to the wwwroot. And we will copy/drag our upload file into the wwwroot folder. Rename our upload file to osTicket.
+6. To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Drive, inetpub, to the wwwroot. And we will copy/drag our upload file into the wwwroot folder. Rename our upload file to osTicket.
 </p>
 
 
@@ -114,7 +115,7 @@ To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Dri
 
 </p>
 <p>
-Then, within IIS we will go to sites, default, osTicket, and then Browse to osTicket from there to verify our Support Ticket System works!
+7. Then, within IIS we will go to sites, default, osTicket, and then Browse to osTicket from there to verify our Support Ticket System works!
 </p>
 
 
@@ -125,7 +126,7 @@ Then, within IIS we will go to sites, default, osTicket, and then Browse to osTi
 
 </p>
 <p>
-Next, we have to enable some extensions within our IIS. Sites, Default, osTicket. In our PHP Manager, we can enable the extensions we need. The 3 extensions we need enabled are php_imap.dll, php_intl.dll, and php_opcache.dll. 
+8. Next, we have to enable some extensions within our IIS. Sites, Default, osTicket. In our PHP Manager, we can enable the extensions we need. The 3 extensions we need enabled are php_imap.dll, php_intl.dll, and php_opcache.dll. 
 </p>
 
 
@@ -136,7 +137,7 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 
 </p>
 <p>
-Adding Permissions to allow us to operate in our other osTicket Labs.
+9. Adding Permissions to allow us to operate in our other osTicket Labs.
 </p>
 
 
@@ -147,7 +148,7 @@ Adding Permissions to allow us to operate in our other osTicket Labs.
 
 </p>
 <p>
-Install Heidi SQL. 
+10. Install Heidi SQL. 
 </p>
 
 
@@ -158,7 +159,7 @@ Install Heidi SQL.
 
 </p>
 <p>
-Create a new session to our Heidi SQL in order to create a database called osTicket. 
+11. Create a new session to our Heidi SQL in order to create a database called osTicket. 
 </p>
 
 
@@ -170,5 +171,5 @@ Create a new session to our Heidi SQL in order to create a database called osTic
 
 </p>
 <p>
-Finally, we are ready to use osTicket!
+12. Finally, we are ready to use osTicket!
 </p>
