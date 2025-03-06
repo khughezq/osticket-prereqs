@@ -99,7 +99,8 @@ Then, within IIS we will go to sites, default, osTicket, and then Browse to osTi
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/fdb9bbed-3bf0-4100-bdcf-88342a851ee8)
+<img width="626" alt="image" src="https://github.com/user-attachments/assets/0d6be35c-cb4a-4b84-a2c7-0ee475152d91" />
+
 
 </p>
 <p>
