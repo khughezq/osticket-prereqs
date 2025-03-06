@@ -83,7 +83,8 @@ Then, we open IIS as an Admin to register PHP using the PHP Manager.
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/354ba8af-cc65-45d0-b045-7de1c8ea72a3)
+<img width="648" alt="image" src="https://github.com/user-attachments/assets/f194b6d9-dbce-4a32-8553-9d93aa24cd79" />
+
 
 </p>
 <p>
