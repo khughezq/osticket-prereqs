@@ -108,7 +108,8 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/3c681ace-88ab-4172-a1e8-b66cc9be3182)
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/1ab37ab1-7e57-4ee9-b0d8-be6098c9128e" />
+
 
 </p>
 <p>
