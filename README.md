@@ -110,14 +110,13 @@ Next, we have to enable some extensions within our IIS. Sites, Default, osTicket
 <p>
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/1ab37ab1-7e57-4ee9-b0d8-be6098c9128e" />
 
-
 </p>
 <p>
 Adding Permissions to allow us to operate in our other osTicket Labs.
 </p>
 
 <p>
-![image](https://github.com/user-attachments/assets/8de30848-f4b5-4be4-8c17-9d5192325ec2)
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/346eee90-ca1d-41e2-9360-c73641ccb94c" />
 
 </p>
 <p>
