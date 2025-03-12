@@ -70,7 +70,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 3. With our newly created PHP folder we then extract our php binary language files... PHP 7.3.8 
 </p>
-
+<br />
 
 
 
@@ -84,7 +84,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 4. After that, we install Microsoft Visual C++. In addition to the MySQL Server. Our MySQL server will be typical, with a standard configuration.
 </p>
-
+<br />
 
 
 
@@ -95,7 +95,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 5. Then, we open IIS as an Admin to register PHP using the PHP Manager.  
 </p>
-
+<br />
 
 
 
@@ -106,7 +106,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 6. To Install osTicket v1.15.8 we extract our file, then we go to the Windows C Drive, inetpub, to the wwwroot. And we will copy/drag our upload file into the wwwroot folder. Rename our upload file to osTicket.
 </p>
-
+<br />
 
 
 
@@ -117,7 +117,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 7. Then, within IIS we will go to sites, default, osTicket, and then Browse to osTicket from there to verify our Support Ticket System works!
 </p>
-
+<br />
 
 
 
@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 8. Next, we have to enable some extensions within our IIS. Sites, Default, osTicket. In our PHP Manager, we can enable the extensions we need. The 3 extensions we need enabled are php_imap.dll, php_intl.dll, and php_opcache.dll. 
 </p>
-
+<br />
 
 
 
@@ -139,7 +139,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 9. Adding Permissions to allow us to operate in our other osTicket Labs.
 </p>
-
+<br />
 
 
 
@@ -150,7 +150,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 10. Install Heidi SQL. 
 </p>
-
+<br />
 
 
 
@@ -161,7 +161,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 11. Create a new session to our Heidi SQL in order to create a database called osTicket. 
 </p>
-
+<br />
 
 
 
